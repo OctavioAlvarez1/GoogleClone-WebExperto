@@ -36,8 +36,8 @@ nav .nav-right-section a{
     color: #000000;
 }
 
-nav ul .nav-right-section .menu-icon{
-    background-image: url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200');
+nav .nav-right-section .menu-icon{
+    background-image: url('https://static.thenounproject.com/png/756729-200.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
